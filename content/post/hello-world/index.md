@@ -4,8 +4,10 @@ description: Welcome to my site!
 slug: About
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
+categories:
+- General
 tags:
-    - About Me
+- Who am I
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
