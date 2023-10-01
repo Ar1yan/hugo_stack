@@ -2,7 +2,7 @@
 title: Pwnagotchi
 description: Open source Wi-Fi hand shake thief
 slug: Pwnagotchi
-date: 2023-01-10 00:00:00+0000
+date: 2023-10-01 00:00:00+0000
 image: cover.jpg
 categories:
 - Hardware
