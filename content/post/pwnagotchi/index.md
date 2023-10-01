@@ -24,6 +24,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 7. [USB-A to Micro USB Cabel (supports data transfer)](https://www.amazon.com/Amazon-Basics-Charging-Transfer-Gold-Plated/dp/B0711PVX6Z/ref=sr_1_3?keywords=usb%2Bto%2Bmicro%2Busb%2Bcable%2Bdata%2Btransfer&qid=1696201168&sr=8-3&th=1)
 8. [Pisugar Portable Battery for Raspberry Pi Zero](https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR)
 
+*total for materials = ~119*
+
 ## Tools
 
 1. [Lead Free Rosin Core Solder](https://www.amazon.com/Tenma-21-1046-Lead-Rosin-Solder/dp/B001DPVT1A/ref=sr_1_2?crid=3H5QYZBDSGI3B&keywords=TENMA+lead-free+rosin+core+solder&qid=1696201415&sprefix=tenma+lead-free+rosin+core+solder%2Caps%2C91&sr=8-2)
@@ -31,3 +33,5 @@ weight: 1       # You can add weight to some posts to override the default sorti
 3. [Tweezers](https://www.amazon.com/Precision-Anti-Static-Electronics-Laboratory-Jewelry-Making/dp/B07RNVXXV1/ref=sr_1_7?crid=KAOI5IUV5A2V&keywords=solder%2Btweezers&qid=1696201632&sprefix=solder%2Btweezers%2Caps%2C81&sr=8-7&th=1)
 4. [22 Gauge electrical wire](https://www.amazon.com/Fermerry-Stranded-Electric-Tinned-Copper/dp/B089CQHRDT/ref=sr_1_5?crid=HAAGJEZ1GRGF&keywords=22+gauge+electrical+wire&qid=1696201773&sprefix=22+gauge+electrical+wi%2Caps%2C85&sr=8-5)
 5. [Soldering station](https://www.amazon.com/WEP-882D-Soldering-Tweezers-Desoldering/dp/B0BX5KXBPD/ref=sr_1_23?crid=3C7F40O323XGN&keywords=soldering+station&qid=1696202080&sprefix=soldering+statio%2Caps%2C93&sr=8-23#customerReviews)
+
+*total for tools = ~109*
